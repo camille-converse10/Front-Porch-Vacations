@@ -1,0 +1,75 @@
+body {
+  color: #3A8D94;
+  font-family: 'Source Sans Pro';
+}
+
+header {
+  background-color: #3BA4AD;
+}
+
+.one {
+  color: #94326B;
+  font family: 'Source Sans Pro' !important;
+}
+
+.nav-link {
+  font family: 'Source Sans Pro' !important;
+}
+
+h3 {
+  font-family: Georgia, serif;
+}
+
+h4, h5, h6 {
+  font-family: 'Source Sans Pro';
+}
+
+p {
+   font-family: 'Source Sans Pro';
+}
+
+.form-group {
+   font-family: 'Source Sans Pro';
+}
+
+.btn-outline-primary {
+  border-color: #3A8D94 !important;
+  color: #3A8D94 !important;
+  font-family: 'Source Sans Pro';
+}
+
+.btn-outline-primary:hover {
+  background-color: #E6D87C !important;
+  font-family: 'Source Sans Pro';
+}
+
+.custom-select {
+  font-family: 'Source Sans Pro';
+}
+
+* {
+  font-family: 'Source Sans Pro';
+}
+
+footer {
+  background-color: #3BA4AD;
+  color: #94326B;
+  float: center;
+  font-family: 'Source Sans Pro';
+}
+
+a:link {
+  color: #94326B;
+}
+
+a:visited {
+  color: #94326B;
+}
+
+a:hover {
+  color: #3BA4AD;
+}
+
+a:active {
+  color: #94326B;
+}
